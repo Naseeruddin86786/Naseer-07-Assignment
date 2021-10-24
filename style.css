@@ -126,8 +126,8 @@ button {
        border-radius: 70px;
        /* margin-left: -70px; */
        position: absolute;
-       left: 500px;
-       top: 1004px;
+       left: 460px;
+       top: 1025px;
 
    }
    .arrow {
@@ -161,8 +161,8 @@ button {
 
 button {
     position: absolute;
-    left: 500px;
-    top: 532px;
+    left: 460px;
+    top: 552px;
 
 }
 }
